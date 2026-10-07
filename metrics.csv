@@ -1,0 +1,9 @@
+Family,Model,R2,MAE,RMSE,CV_R2_5fold,Fit_s
+Stacking,Stacking,0.9851,4587.6,5764.1,0.9782,2.81
+Boosting,Gradient Boosting,0.9849,4597.8,5793.0,0.9783,0.14
+Voting,Voting,0.9833,4731.4,6097.7,0.9745,0.54
+Bagging,Random Forest,0.9807,5154.2,6564.7,0.9649,0.37
+Boosting,AdaBoost,0.9755,5645.2,7389.7,0.9615,0.18
+Bagging,Bagging (Trees),0.9631,7009.4,9071.7,0.9516,0.17
+Baseline,Linear Regression,0.9535,7727.3,10178.3,0.9416,0.01
+Baseline,Decision Tree,0.9456,8567.9,11014.5,0.922,0.01

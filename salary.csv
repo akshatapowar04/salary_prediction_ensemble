@@ -1,0 +1,801 @@
+employee_id,years_experience,education_level,job_title,gender,location,age,salary
+1,1,Bachelors,Analyst,Female,Tier-1 City,26,54300.0
+2,16,PhD,Data Scientist,Female,Tier-3 City,41,138100.0
+3,13,Masters,Manager,Female,Tier-1 City,36,142900.0
+4,9,Bachelors,Data Scientist,Male,Tier-2 City,35,99700.0
+5,9,PhD,Developer,Male,Tier-3 City,35,73700.0
+6,18,PhD,Director,Female,Tier-3 City,44,186500.0
+7,1,Bachelors,Developer,Female,Tier-1 City,25,65500.0
+8,14,Masters,Manager,Female,Tier-2 City,41,138800.0
+9,4,Bachelors,Data Scientist,Male,Tier-1 City,28,96100.0
+10,1,PhD,Analyst,Male,Tier-1 City,27,58000.0
+11,11,Masters,Data Scientist,Female,Tier-2 City,34,112700.0
+12,20,Masters,Analyst,Male,Tier-3 City,43,85600.0
+13,15,Bachelors,Director,Male,Tier-3 City,40,164800.0
+14,15,PhD,Manager,Female,Tier-2 City,40,144000.0
+15,15,Bachelors,Developer,Female,Tier-1 City,41,104000.0
+16,16,Bachelors,Data Scientist,Male,Tier-1 City,39,153500.0
+17,10,Bachelors,Manager,Male,Tier-1 City,37,126100.0
+18,2,Masters,Developer,Male,Tier-1 City,25,66500.0
+19,17,Bachelors,Developer,Female,Tier-1 City,42,125700.0
+20,9,PhD,Data Scientist,Male,Tier-3 City,36,100700.0
+21,10,Masters,Developer,Female,Tier-1 City,35,99200.0
+22,7,Bachelors,Manager,Male,Tier-1 City,33,114800.0
+23,3,Bachelors,Analyst,Female,Tier-2 City,30,36000.0
+24,19,Bachelors,Director,Female,Tier-1 City,46,236900.0
+25,16,Masters,Developer,Female,Tier-2 City,40,107300.0
+26,13,Masters,Data Scientist,Female,Tier-1 City,37,147600.0
+27,8,Bachelors,Analyst,Female,Tier-1 City,31,51300.0
+28,17,Masters,Developer,Male,Tier-2 City,42,111000.0
+29,11,Bachelors,Manager,Female,Tier-3 City,38,87700.0
+30,9,Masters,Developer,Female,Tier-2 City,33,89300.0
+31,9,PhD,Analyst,Female,Tier-2 City,33,68600.0
+32,4,Masters,Data Scientist,Male,Tier-2 City,26,90800.0
+33,1,Masters,Analyst,Female,Tier-1 City,25,56000.0
+34,11,Masters,Developer,Male,Tier-1 City,34,103500.0
+35,18,Bachelors,Data Scientist,Female,Tier-2 City,45,142800.0
+36,1,Bachelors,Data Scientist,Female,Tier-1 City,26,78000.0
+37,18,Bachelors,Manager,Male,Tier-3 City,40,125500.0
+38,17,Masters,Manager,Female,Tier-2 City,39,161200.0
+39,5,Masters,Director,Female,Tier-1 City,32,155700.0
+40,13,Masters,Analyst,Male,Tier-2 City,40,66200.0
+41,3,PhD,Developer,Male,Tier-1 City,29,86900.0
+42,15,Bachelors,Analyst,Male,Tier-2 City,37,62400.0
+43,14,Masters,Analyst,Female,Tier-3 City,36,70900.0
+44,7,Bachelors,Developer,Female,Tier-1 City,30,74300.0
+45,1,Bachelors,Data Scientist,Female,Tier-2 City,27,71000.0
+46,20,Masters,Director,Female,Tier-1 City,46,267500.0
+47,9,PhD,Manager,Female,Tier-2 City,36,119900.0
+48,18,Masters,Manager,Male,Tier-1 City,40,176400.0
+49,14,Bachelors,Manager,Male,Tier-2 City,36,125100.0
+50,16,Masters,Analyst,Male,Tier-2 City,43,78700.0
+51,15,Bachelors,Director,Male,Tier-1 City,42,209900.0
+52,4,PhD,Director,Female,Tier-2 City,30,133800.0
+53,7,Masters,Analyst,Male,Tier-3 City,29,54500.0
+54,9,Bachelors,Data Scientist,Male,Tier-3 City,31,84400.0
+55,10,Bachelors,Director,Male,Tier-1 City,32,168600.0
+56,0,Bachelors,Data Scientist,Male,Tier-2 City,26,62400.0
+57,11,PhD,Director,Male,Tier-3 City,38,157700.0
+58,3,Bachelors,Director,Male,Tier-2 City,28,118400.0
+59,15,Masters,Data Scientist,Female,Tier-1 City,38,158600.0
+60,14,Masters,Analyst,Male,Tier-2 City,40,70700.0
+61,19,Masters,Developer,Male,Tier-1 City,41,144900.0
+62,15,Bachelors,Developer,Male,Tier-1 City,41,108900.0
+63,7,PhD,Data Scientist,Female,Tier-2 City,34,104200.0
+64,20,Bachelors,Data Scientist,Female,Tier-2 City,46,159800.0
+65,8,Masters,Data Scientist,Female,Tier-3 City,35,93300.0
+66,6,Masters,Analyst,Female,Tier-2 City,31,47100.0
+67,19,Masters,Developer,Female,Tier-3 City,43,104400.0
+68,7,PhD,Manager,Female,Tier-2 City,30,112500.0
+69,1,Bachelors,Analyst,Male,Tier-3 City,28,40800.0
+70,9,Masters,Developer,Female,Tier-1 City,35,83000.0
+71,16,Bachelors,Director,Male,Tier-1 City,39,222200.0
+72,3,Bachelors,Analyst,Male,Tier-3 City,30,27900.0
+73,9,Bachelors,Data Scientist,Female,Tier-3 City,31,81700.0
+74,2,Bachelors,Developer,Male,Tier-3 City,27,46600.0
+75,14,Bachelors,Analyst,Male,Tier-1 City,37,71500.0
+76,9,Bachelors,Data Scientist,Female,Tier-1 City,34,108300.0
+77,6,Bachelors,Data Scientist,Male,Tier-3 City,30,75700.0
+78,4,Masters,Analyst,Male,Tier-2 City,28,46300.0
+79,11,Masters,Analyst,Female,Tier-1 City,37,63400.0
+80,14,Bachelors,Analyst,Female,Tier-3 City,40,60200.0
+81,19,Bachelors,Manager,Male,Tier-3 City,43,135800.0
+82,9,Bachelors,Director,Female,Tier-1 City,36,171000.0
+83,3,Masters,Analyst,Female,Tier-3 City,27,34100.0
+84,17,Bachelors,Developer,Male,Tier-3 City,39,95200.0
+85,13,Bachelors,Developer,Male,Tier-2 City,35,91900.0
+86,14,Bachelors,Developer,Male,Tier-2 City,37,87800.0
+87,2,Bachelors,Developer,Male,Tier-1 City,28,63300.0
+88,6,Bachelors,Analyst,Male,Tier-3 City,31,38100.0
+89,16,Masters,Data Scientist,Male,Tier-3 City,40,133300.0
+90,17,Masters,Developer,Male,Tier-3 City,41,110400.0
+91,9,Masters,Developer,Male,Tier-3 City,36,62500.0
+92,16,Masters,Developer,Male,Tier-1 City,41,139000.0
+93,17,Masters,Director,Male,Tier-2 City,39,202400.0
+94,8,Bachelors,Manager,Male,Tier-2 City,30,103900.0
+95,18,Masters,Data Scientist,Male,Tier-3 City,42,138600.0
+96,6,Masters,Developer,Female,Tier-2 City,30,68000.0
+97,5,Bachelors,Director,Male,Tier-2 City,32,127500.0
+98,14,Masters,Director,Female,Tier-1 City,39,213400.0
+99,13,Bachelors,Analyst,Female,Tier-3 City,39,56000.0
+100,2,Masters,Director,Female,Tier-2 City,27,119200.0
+101,17,Masters,Manager,Female,Tier-1 City,41,176200.0
+102,4,PhD,Analyst,Male,Tier-3 City,29,50500.0
+103,16,PhD,Manager,Female,Tier-1 City,41,172800.0
+104,0,Masters,Analyst,Male,Tier-1 City,26,54900.0
+105,16,Masters,Analyst,Male,Tier-1 City,39,93800.0
+106,16,Masters,Analyst,Male,Tier-2 City,41,82700.0
+107,16,Bachelors,Data Scientist,Male,Tier-1 City,39,149600.0
+108,13,Masters,Manager,Male,Tier-3 City,39,107400.0
+109,9,Bachelors,Data Scientist,Male,Tier-2 City,35,93700.0
+110,14,Bachelors,Analyst,Female,Tier-1 City,39,70500.0
+111,5,Bachelors,Analyst,Female,Tier-1 City,32,52800.0
+112,16,Masters,Director,Male,Tier-2 City,41,204900.0
+113,11,Bachelors,Director,Female,Tier-1 City,33,179800.0
+114,9,Bachelors,Manager,Male,Tier-3 City,34,96900.0
+115,10,Bachelors,Analyst,Male,Tier-1 City,36,64300.0
+116,11,Bachelors,Director,Female,Tier-2 City,33,158200.0
+117,0,Bachelors,Manager,Female,Tier-1 City,22,82100.0
+118,2,Masters,Data Scientist,Male,Tier-1 City,25,99900.0
+119,5,Bachelors,Analyst,Male,Tier-1 City,32,48600.0
+120,2,Masters,Director,Male,Tier-1 City,27,136300.0
+121,9,PhD,Data Scientist,Male,Tier-3 City,36,97300.0
+122,14,Bachelors,Analyst,Male,Tier-3 City,41,51900.0
+123,13,Bachelors,Developer,Female,Tier-3 City,38,70500.0
+124,9,Masters,Data Scientist,Female,Tier-1 City,35,123300.0
+125,17,Bachelors,Analyst,Male,Tier-3 City,40,61600.0
+126,11,Bachelors,Developer,Female,Tier-2 City,33,94800.0
+127,1,PhD,Data Scientist,Male,Tier-1 City,25,91700.0
+128,16,PhD,Director,Male,Tier-1 City,41,232900.0
+129,12,Masters,Analyst,Male,Tier-2 City,35,67600.0
+130,13,Bachelors,Data Scientist,Female,Tier-2 City,36,124100.0
+131,11,Masters,Director,Female,Tier-1 City,33,190100.0
+132,11,Masters,Director,Female,Tier-3 City,37,148100.0
+133,1,Bachelors,Director,Male,Tier-3 City,28,83200.0
+134,11,Masters,Analyst,Female,Tier-2 City,37,58100.0
+135,16,Bachelors,Director,Male,Tier-3 City,40,163600.0
+136,6,Bachelors,Director,Male,Tier-3 City,31,104900.0
+137,12,Masters,Developer,Female,Tier-3 City,39,81500.0
+138,0,Bachelors,Data Scientist,Male,Tier-1 City,25,63500.0
+139,7,Bachelors,Data Scientist,Female,Tier-3 City,30,72100.0
+140,9,Masters,Data Scientist,Female,Tier-2 City,33,101800.0
+141,20,PhD,Developer,Female,Tier-3 City,46,115500.0
+142,4,Masters,Director,Male,Tier-3 City,28,114600.0
+143,5,Masters,Director,Male,Tier-1 City,32,154500.0
+144,8,PhD,Developer,Female,Tier-2 City,35,90500.0
+145,20,Bachelors,Director,Female,Tier-1 City,42,256800.0
+146,17,Bachelors,Developer,Female,Tier-1 City,43,128200.0
+147,0,Bachelors,Manager,Female,Tier-2 City,24,75000.0
+148,4,Bachelors,Data Scientist,Male,Tier-3 City,29,71000.0
+149,17,Masters,Data Scientist,Male,Tier-3 City,40,131500.0
+150,1,Bachelors,Analyst,Female,Tier-2 City,25,37200.0
+151,17,Bachelors,Manager,Male,Tier-1 City,40,159000.0
+152,5,Bachelors,Developer,Female,Tier-2 City,27,60800.0
+153,19,Bachelors,Developer,Male,Tier-3 City,45,97600.0
+154,6,PhD,Analyst,Female,Tier-3 City,28,54900.0
+155,9,Bachelors,Director,Female,Tier-1 City,33,166300.0
+156,13,Bachelors,Analyst,Male,Tier-1 City,36,66300.0
+157,2,Bachelors,Manager,Male,Tier-3 City,24,68000.0
+158,11,Bachelors,Director,Female,Tier-1 City,35,174500.0
+159,10,Masters,Analyst,Male,Tier-1 City,37,71600.0
+160,16,Bachelors,Data Scientist,Female,Tier-1 City,43,153300.0
+161,20,Bachelors,Data Scientist,Female,Tier-2 City,44,150700.0
+162,13,Bachelors,Developer,Female,Tier-2 City,38,92500.0
+163,8,Masters,Manager,Male,Tier-2 City,35,104200.0
+164,8,Masters,Data Scientist,Female,Tier-1 City,31,109100.0
+165,8,Masters,Data Scientist,Male,Tier-3 City,35,94000.0
+166,17,Masters,Data Scientist,Female,Tier-3 City,39,126200.0
+167,6,Masters,Director,Female,Tier-2 City,29,136000.0
+168,3,Bachelors,Manager,Male,Tier-1 City,27,96800.0
+169,7,Bachelors,Developer,Male,Tier-2 City,29,73200.0
+170,0,Masters,Director,Male,Tier-3 City,26,95100.0
+171,2,Bachelors,Director,Female,Tier-2 City,29,104000.0
+172,1,Masters,Director,Male,Tier-1 City,25,132700.0
+173,16,Bachelors,Manager,Male,Tier-2 City,43,132600.0
+174,15,Masters,Developer,Female,Tier-2 City,41,114900.0
+175,14,PhD,Manager,Female,Tier-2 City,40,141000.0
+176,9,Masters,Developer,Female,Tier-2 City,35,69300.0
+177,15,PhD,Developer,Female,Tier-1 City,40,132300.0
+178,3,Masters,Data Scientist,Female,Tier-3 City,25,83200.0
+179,18,PhD,Director,Female,Tier-2 City,45,229900.0
+180,10,Bachelors,Data Scientist,Male,Tier-2 City,35,109200.0
+181,19,Bachelors,Developer,Female,Tier-2 City,46,110400.0
+182,3,Masters,Data Scientist,Female,Tier-2 City,30,88100.0
+183,10,Bachelors,Developer,Female,Tier-1 City,33,82600.0
+184,14,Bachelors,Manager,Female,Tier-3 City,38,111100.0
+185,10,PhD,Developer,Female,Tier-1 City,33,98300.0
+186,9,Masters,Data Scientist,Male,Tier-2 City,31,101300.0
+187,3,Bachelors,Developer,Female,Tier-1 City,30,62700.0
+188,8,Bachelors,Developer,Female,Tier-1 City,35,85000.0
+189,5,Bachelors,Director,Male,Tier-1 City,32,147800.0
+190,6,Bachelors,Developer,Female,Tier-3 City,33,58600.0
+191,14,PhD,Analyst,Male,Tier-2 City,39,73200.0
+192,13,Bachelors,Developer,Female,Tier-2 City,38,86900.0
+193,12,Bachelors,Data Scientist,Female,Tier-3 City,39,93900.0
+194,7,Masters,Analyst,Male,Tier-1 City,32,65900.0
+195,20,Bachelors,Developer,Male,Tier-2 City,45,125900.0
+196,1,Bachelors,Analyst,Female,Tier-2 City,24,41800.0
+197,7,Masters,Data Scientist,Male,Tier-2 City,33,93700.0
+198,2,Masters,Manager,Female,Tier-1 City,28,88700.0
+199,7,PhD,Director,Male,Tier-3 City,33,124000.0
+200,20,Masters,Developer,Female,Tier-1 City,44,154300.0
+201,7,Bachelors,Director,Female,Tier-3 City,30,116800.0
+202,19,Masters,Developer,Female,Tier-3 City,41,104900.0
+203,10,PhD,Manager,Male,Tier-2 City,35,129200.0
+204,14,Masters,Data Scientist,Female,Tier-1 City,40,155800.0
+205,9,PhD,Manager,Male,Tier-1 City,35,135800.0
+206,5,Masters,Manager,Male,Tier-3 City,32,84800.0
+207,16,PhD,Data Scientist,Male,Tier-3 City,40,130500.0
+208,20,Bachelors,Developer,Female,Tier-3 City,46,106700.0
+209,5,Masters,Data Scientist,Female,Tier-1 City,31,112100.0
+210,16,Bachelors,Director,Male,Tier-2 City,39,194100.0
+211,5,Masters,Director,Male,Tier-1 City,32,156600.0
+212,15,Masters,Director,Female,Tier-3 City,37,175700.0
+213,16,PhD,Analyst,Male,Tier-2 City,41,81200.0
+214,9,PhD,Data Scientist,Male,Tier-3 City,36,102800.0
+215,15,Bachelors,Analyst,Female,Tier-3 City,40,57900.0
+216,5,Masters,Manager,Male,Tier-3 City,32,73700.0
+217,1,Masters,Director,Female,Tier-2 City,23,102400.0
+218,2,Bachelors,Analyst,Female,Tier-2 City,27,32900.0
+219,9,Bachelors,Manager,Male,Tier-2 City,35,104700.0
+220,18,Bachelors,Director,Male,Tier-1 City,43,237500.0
+221,2,Masters,Director,Female,Tier-1 City,29,136600.0
+222,9,Bachelors,Developer,Female,Tier-2 City,33,82300.0
+223,14,PhD,Analyst,Female,Tier-3 City,40,64100.0
+224,4,Bachelors,Director,Male,Tier-2 City,28,119900.0
+225,15,PhD,Director,Female,Tier-3 City,42,178400.0
+226,6,Bachelors,Data Scientist,Female,Tier-1 City,28,95200.0
+227,16,Masters,Director,Male,Tier-2 City,39,200100.0
+228,12,Bachelors,Analyst,Female,Tier-2 City,34,49000.0
+229,11,Masters,Manager,Female,Tier-2 City,37,125000.0
+230,3,Masters,Analyst,Male,Tier-1 City,26,51200.0
+231,9,PhD,Director,Male,Tier-1 City,32,195300.0
+232,17,Masters,Manager,Female,Tier-3 City,44,130100.0
+233,0,Bachelors,Director,Male,Tier-2 City,24,105100.0
+234,15,Bachelors,Data Scientist,Male,Tier-1 City,37,146400.0
+235,10,Bachelors,Analyst,Male,Tier-1 City,32,57300.0
+236,15,Bachelors,Analyst,Female,Tier-1 City,38,74700.0
+237,13,Masters,Developer,Male,Tier-3 City,40,85500.0
+238,9,Masters,Manager,Female,Tier-1 City,34,128100.0
+239,6,Masters,Analyst,Female,Tier-3 City,33,41800.0
+240,13,PhD,Director,Female,Tier-1 City,36,214400.0
+241,2,Masters,Developer,Female,Tier-2 City,26,59900.0
+242,12,Masters,Data Scientist,Male,Tier-1 City,34,148300.0
+243,1,Bachelors,Developer,Male,Tier-3 City,25,45800.0
+244,13,Bachelors,Data Scientist,Male,Tier-1 City,38,141700.0
+245,13,Masters,Data Scientist,Female,Tier-2 City,39,123500.0
+246,1,PhD,Analyst,Female,Tier-1 City,25,61700.0
+247,15,Bachelors,Data Scientist,Male,Tier-1 City,41,140000.0
+248,8,Masters,Manager,Female,Tier-1 City,33,120800.0
+249,16,Masters,Director,Female,Tier-3 City,39,177100.0
+250,0,Bachelors,Developer,Male,Tier-2 City,27,57900.0
+251,3,Bachelors,Director,Male,Tier-2 City,27,116100.0
+252,10,PhD,Director,Male,Tier-2 City,32,172900.0
+253,3,Masters,Director,Male,Tier-3 City,30,111400.0
+254,6,Bachelors,Developer,Male,Tier-2 City,33,73100.0
+255,13,PhD,Director,Female,Tier-2 City,35,186700.0
+256,3,Bachelors,Data Scientist,Female,Tier-1 City,30,98800.0
+257,14,PhD,Analyst,Female,Tier-1 City,41,89600.0
+258,2,Bachelors,Developer,Male,Tier-1 City,28,59400.0
+259,3,Masters,Manager,Female,Tier-2 City,26,85900.0
+260,12,Bachelors,Analyst,Male,Tier-1 City,37,77200.0
+261,16,Bachelors,Data Scientist,Male,Tier-1 City,41,157000.0
+262,3,PhD,Manager,Female,Tier-1 City,28,113300.0
+263,6,Bachelors,Analyst,Female,Tier-1 City,31,56800.0
+264,19,Bachelors,Data Scientist,Male,Tier-3 City,44,135000.0
+265,20,Bachelors,Developer,Male,Tier-2 City,45,129800.0
+266,12,Masters,Data Scientist,Female,Tier-3 City,38,97000.0
+267,9,Masters,Developer,Female,Tier-2 City,34,79200.0
+268,7,PhD,Director,Male,Tier-3 City,29,130600.0
+269,12,Bachelors,Analyst,Female,Tier-1 City,34,55700.0
+270,12,Bachelors,Director,Female,Tier-2 City,39,169300.0
+271,6,Bachelors,Manager,Male,Tier-3 City,33,80500.0
+272,0,Masters,Director,Female,Tier-2 City,25,111700.0
+273,3,PhD,Director,Female,Tier-3 City,26,127100.0
+274,20,Masters,Analyst,Female,Tier-1 City,46,105200.0
+275,8,Masters,Director,Male,Tier-1 City,30,168100.0
+276,10,Bachelors,Data Scientist,Male,Tier-3 City,34,88600.0
+277,9,PhD,Director,Female,Tier-1 City,32,190100.0
+278,16,Bachelors,Director,Female,Tier-3 City,38,166100.0
+279,1,Bachelors,Data Scientist,Male,Tier-3 City,27,57100.0
+280,1,Bachelors,Developer,Female,Tier-3 City,26,51500.0
+281,5,Bachelors,Analyst,Female,Tier-2 City,28,44400.0
+282,10,Bachelors,Analyst,Male,Tier-3 City,35,33800.0
+283,14,Bachelors,Developer,Female,Tier-1 City,36,100800.0
+284,10,Bachelors,Director,Male,Tier-2 City,34,157500.0
+285,9,Masters,Data Scientist,Male,Tier-1 City,34,122200.0
+286,19,Bachelors,Data Scientist,Male,Tier-3 City,43,127700.0
+287,3,Bachelors,Developer,Male,Tier-3 City,29,49700.0
+288,12,PhD,Data Scientist,Female,Tier-3 City,35,111800.0
+289,11,Masters,Manager,Male,Tier-3 City,33,107500.0
+290,9,Masters,Director,Female,Tier-1 City,34,169200.0
+291,16,Bachelors,Manager,Male,Tier-1 City,43,151000.0
+292,5,PhD,Manager,Female,Tier-3 City,29,94600.0
+293,20,Bachelors,Director,Male,Tier-2 City,42,219500.0
+294,6,Bachelors,Data Scientist,Female,Tier-1 City,33,101800.0
+295,11,PhD,Director,Female,Tier-3 City,35,146100.0
+296,10,Masters,Developer,Female,Tier-3 City,33,74800.0
+297,17,Masters,Analyst,Male,Tier-2 City,42,88000.0
+298,9,Masters,Data Scientist,Male,Tier-3 City,32,94400.0
+299,5,Masters,Analyst,Male,Tier-1 City,32,58800.0
+300,0,Bachelors,Analyst,Male,Tier-1 City,23,39800.0
+301,7,Bachelors,Director,Male,Tier-1 City,32,151100.0
+302,17,Bachelors,Manager,Female,Tier-2 City,42,139600.0
+303,0,Bachelors,Developer,Male,Tier-1 City,23,63800.0
+304,18,PhD,Director,Male,Tier-1 City,42,254700.0
+305,11,Bachelors,Analyst,Male,Tier-3 City,33,42600.0
+306,2,Masters,Developer,Female,Tier-3 City,27,53000.0
+307,6,Masters,Manager,Female,Tier-3 City,32,89900.0
+308,11,Masters,Developer,Female,Tier-3 City,38,75100.0
+309,6,Bachelors,Manager,Male,Tier-3 City,29,84300.0
+310,2,Bachelors,Director,Male,Tier-2 City,25,112600.0
+311,13,PhD,Analyst,Female,Tier-2 City,38,80900.0
+312,14,Masters,Analyst,Female,Tier-3 City,40,70500.0
+313,2,Masters,Director,Male,Tier-2 City,29,123000.0
+314,5,PhD,Data Scientist,Male,Tier-1 City,27,108600.0
+315,5,Masters,Data Scientist,Male,Tier-3 City,28,75100.0
+316,13,Bachelors,Data Scientist,Female,Tier-1 City,36,133600.0
+317,15,Masters,Data Scientist,Male,Tier-3 City,38,117000.0
+318,15,Bachelors,Manager,Female,Tier-2 City,39,124300.0
+319,19,Masters,Data Scientist,Female,Tier-3 City,46,136400.0
+320,16,PhD,Analyst,Female,Tier-1 City,38,97700.0
+321,6,Masters,Manager,Female,Tier-2 City,32,97600.0
+322,2,Bachelors,Manager,Male,Tier-2 City,27,79400.0
+323,12,Bachelors,Analyst,Female,Tier-2 City,37,62900.0
+324,19,PhD,Developer,Male,Tier-1 City,45,152200.0
+325,20,Bachelors,Manager,Male,Tier-3 City,42,148800.0
+326,4,Bachelors,Manager,Male,Tier-2 City,30,87900.0
+327,4,Bachelors,Analyst,Male,Tier-3 City,27,34600.0
+328,0,Bachelors,Analyst,Male,Tier-2 City,25,35000.0
+329,2,Bachelors,Data Scientist,Male,Tier-1 City,28,84100.0
+330,11,Masters,Data Scientist,Male,Tier-3 City,36,102100.0
+331,11,Bachelors,Director,Male,Tier-1 City,34,190900.0
+332,7,Bachelors,Data Scientist,Male,Tier-1 City,31,98700.0
+333,6,Bachelors,Director,Male,Tier-3 City,30,118700.0
+334,17,Bachelors,Developer,Female,Tier-3 City,39,94800.0
+335,9,Bachelors,Data Scientist,Male,Tier-3 City,35,77100.0
+336,16,Masters,Analyst,Male,Tier-2 City,38,82900.0
+337,20,Bachelors,Data Scientist,Male,Tier-3 City,44,142700.0
+338,6,Bachelors,Analyst,Male,Tier-1 City,31,46300.0
+339,4,Bachelors,Data Scientist,Female,Tier-3 City,26,69500.0
+340,20,Bachelors,Developer,Female,Tier-2 City,47,111400.0
+341,13,Bachelors,Analyst,Female,Tier-1 City,37,63300.0
+342,6,Bachelors,Analyst,Female,Tier-2 City,28,49200.0
+343,13,PhD,Data Scientist,Male,Tier-2 City,38,130200.0
+344,10,Bachelors,Director,Female,Tier-1 City,35,167000.0
+345,19,Masters,Analyst,Male,Tier-2 City,44,90600.0
+346,5,Bachelors,Data Scientist,Female,Tier-2 City,31,79900.0
+347,20,Bachelors,Developer,Male,Tier-1 City,44,135600.0
+348,19,Bachelors,Director,Female,Tier-1 City,45,248600.0
+349,3,Masters,Data Scientist,Male,Tier-3 City,27,67700.0
+350,3,Masters,Director,Female,Tier-2 City,28,118500.0
+351,11,Bachelors,Developer,Male,Tier-2 City,33,80300.0
+352,0,Bachelors,Analyst,Female,Tier-2 City,25,39800.0
+353,6,Bachelors,Data Scientist,Female,Tier-2 City,29,92200.0
+354,9,Bachelors,Manager,Female,Tier-2 City,35,98700.0
+355,20,Masters,Director,Male,Tier-2 City,46,232700.0
+356,20,Bachelors,Director,Male,Tier-3 City,47,189700.0
+357,3,Bachelors,Director,Female,Tier-3 City,30,110300.0
+358,18,PhD,Manager,Male,Tier-1 City,40,179500.0
+359,1,Bachelors,Developer,Male,Tier-3 City,23,52800.0
+360,15,Bachelors,Data Scientist,Male,Tier-3 City,42,108900.0
+361,17,Masters,Analyst,Male,Tier-1 City,41,104900.0
+362,18,Bachelors,Data Scientist,Male,Tier-3 City,40,129700.0
+363,4,Bachelors,Developer,Male,Tier-2 City,27,54900.0
+364,18,Bachelors,Analyst,Female,Tier-3 City,45,66000.0
+365,2,PhD,Developer,Female,Tier-2 City,26,74900.0
+366,10,Bachelors,Data Scientist,Male,Tier-3 City,32,93300.0
+367,9,Bachelors,Developer,Male,Tier-1 City,35,83000.0
+368,6,Bachelors,Director,Male,Tier-1 City,29,149700.0
+369,0,Bachelors,Data Scientist,Female,Tier-3 City,24,61000.0
+370,16,Masters,Director,Male,Tier-2 City,38,200700.0
+371,7,Bachelors,Manager,Female,Tier-2 City,32,89500.0
+372,13,Masters,Analyst,Female,Tier-1 City,37,74700.0
+373,8,Masters,Developer,Female,Tier-1 City,35,90900.0
+374,7,Masters,Manager,Male,Tier-3 City,31,97600.0
+375,18,Bachelors,Data Scientist,Female,Tier-1 City,41,173700.0
+376,1,PhD,Developer,Female,Tier-2 City,23,72400.0
+377,15,Masters,Data Scientist,Female,Tier-1 City,38,157300.0
+378,15,Bachelors,Director,Female,Tier-1 City,39,216500.0
+379,7,Masters,Developer,Female,Tier-1 City,29,83500.0
+380,5,PhD,Analyst,Male,Tier-3 City,29,50700.0
+381,0,Bachelors,Developer,Female,Tier-3 City,27,39900.0
+382,19,PhD,Director,Female,Tier-1 City,45,257100.0
+383,19,Bachelors,Manager,Male,Tier-2 City,44,151700.0
+384,5,Masters,Director,Male,Tier-2 City,32,133900.0
+385,0,PhD,Director,Female,Tier-2 City,26,119400.0
+386,2,Bachelors,Analyst,Male,Tier-3 City,27,36200.0
+387,1,Masters,Developer,Male,Tier-1 City,28,70800.0
+388,17,Bachelors,Analyst,Female,Tier-1 City,39,88500.0
+389,18,Masters,Analyst,Female,Tier-2 City,44,85800.0
+390,3,Masters,Director,Female,Tier-2 City,26,125100.0
+391,15,Bachelors,Director,Male,Tier-1 City,41,209100.0
+392,3,Bachelors,Analyst,Male,Tier-3 City,30,36600.0
+393,7,Bachelors,Manager,Female,Tier-1 City,31,113700.0
+394,12,Bachelors,Data Scientist,Female,Tier-1 City,34,124300.0
+395,15,Bachelors,Analyst,Male,Tier-2 City,39,67800.0
+396,18,Bachelors,Director,Male,Tier-2 City,42,202900.0
+397,0,Bachelors,Director,Male,Tier-1 City,27,112400.0
+398,4,Bachelors,Data Scientist,Female,Tier-1 City,31,85200.0
+399,5,Masters,Manager,Male,Tier-1 City,30,119000.0
+400,6,Masters,Developer,Female,Tier-2 City,33,78300.0
+401,20,Masters,Manager,Male,Tier-2 City,44,165700.0
+402,16,Bachelors,Data Scientist,Female,Tier-1 City,40,162800.0
+403,6,PhD,Director,Male,Tier-2 City,33,145100.0
+404,20,Masters,Analyst,Female,Tier-3 City,46,97000.0
+405,10,Bachelors,Analyst,Female,Tier-1 City,35,56400.0
+406,10,Bachelors,Director,Male,Tier-3 City,34,133300.0
+407,9,Masters,Developer,Male,Tier-1 City,35,90600.0
+408,3,Bachelors,Developer,Female,Tier-1 City,29,68000.0
+409,19,Masters,Manager,Female,Tier-1 City,43,185900.0
+410,0,PhD,Analyst,Female,Tier-1 City,22,58100.0
+411,3,Bachelors,Data Scientist,Female,Tier-1 City,25,95700.0
+412,4,Bachelors,Developer,Female,Tier-2 City,26,61200.0
+413,5,PhD,Analyst,Female,Tier-2 City,29,59900.0
+414,2,Masters,Director,Male,Tier-3 City,27,99300.0
+415,0,Bachelors,Analyst,Female,Tier-2 City,26,37100.0
+416,14,PhD,Analyst,Male,Tier-2 City,37,79300.0
+417,20,PhD,Manager,Male,Tier-2 City,46,168000.0
+418,2,Masters,Director,Male,Tier-1 City,27,131800.0
+419,6,Masters,Analyst,Male,Tier-3 City,28,59100.0
+420,10,Bachelors,Manager,Male,Tier-1 City,34,119400.0
+421,19,Bachelors,Data Scientist,Female,Tier-3 City,42,124300.0
+422,14,Masters,Director,Male,Tier-3 City,41,160200.0
+423,16,Bachelors,Analyst,Male,Tier-3 City,43,62200.0
+424,12,Masters,Director,Male,Tier-2 City,38,174700.0
+425,8,Masters,Manager,Female,Tier-1 City,33,125800.0
+426,4,Bachelors,Director,Female,Tier-3 City,28,109000.0
+427,18,Masters,Developer,Female,Tier-1 City,41,133600.0
+428,16,Bachelors,Director,Male,Tier-2 City,42,193700.0
+429,0,PhD,Manager,Female,Tier-3 City,22,75700.0
+430,15,Bachelors,Analyst,Female,Tier-3 City,38,56300.0
+431,1,Masters,Director,Male,Tier-3 City,23,94900.0
+432,15,Masters,Manager,Female,Tier-1 City,39,152800.0
+433,17,Bachelors,Developer,Male,Tier-3 City,40,99000.0
+434,2,Masters,Data Scientist,Female,Tier-1 City,25,95400.0
+435,9,Masters,Developer,Female,Tier-2 City,33,85400.0
+436,2,Masters,Data Scientist,Male,Tier-3 City,29,70600.0
+437,11,Masters,Director,Female,Tier-2 City,36,168900.0
+438,19,PhD,Director,Male,Tier-3 City,45,192700.0
+439,1,Bachelors,Developer,Male,Tier-2 City,28,56800.0
+440,8,Masters,Director,Female,Tier-1 City,35,171100.0
+441,20,Bachelors,Data Scientist,Female,Tier-1 City,44,181400.0
+442,6,Masters,Manager,Female,Tier-2 City,33,102900.0
+443,2,Masters,Manager,Female,Tier-3 City,29,73400.0
+444,10,Bachelors,Data Scientist,Male,Tier-2 City,37,92500.0
+445,10,Bachelors,Data Scientist,Female,Tier-3 City,34,84400.0
+446,13,PhD,Data Scientist,Female,Tier-2 City,36,135300.0
+447,6,Bachelors,Director,Female,Tier-1 City,31,153000.0
+448,20,Masters,Developer,Female,Tier-1 City,47,140400.0
+449,10,Bachelors,Developer,Female,Tier-2 City,37,70100.0
+450,6,PhD,Developer,Female,Tier-3 City,31,67700.0
+451,20,Bachelors,Analyst,Male,Tier-3 City,42,73000.0
+452,19,Bachelors,Developer,Male,Tier-1 City,43,126000.0
+453,10,PhD,Analyst,Male,Tier-2 City,36,58900.0
+454,0,PhD,Analyst,Female,Tier-3 City,25,40800.0
+455,12,Bachelors,Manager,Female,Tier-2 City,36,115400.0
+456,11,Bachelors,Analyst,Male,Tier-1 City,35,55600.0
+457,3,Masters,Data Scientist,Female,Tier-2 City,25,82900.0
+458,13,PhD,Manager,Female,Tier-1 City,36,161700.0
+459,17,Bachelors,Manager,Male,Tier-1 City,43,154500.0
+460,2,Masters,Data Scientist,Male,Tier-2 City,25,79000.0
+461,15,Masters,Analyst,Female,Tier-1 City,42,91900.0
+462,2,Masters,Director,Male,Tier-2 City,24,115900.0
+463,15,Masters,Director,Female,Tier-2 City,40,190100.0
+464,8,Masters,Manager,Female,Tier-2 City,32,112800.0
+465,0,Bachelors,Analyst,Female,Tier-2 City,26,33500.0
+466,20,PhD,Analyst,Male,Tier-1 City,47,121700.0
+467,3,PhD,Developer,Female,Tier-3 City,28,66800.0
+468,12,Masters,Analyst,Male,Tier-3 City,37,55500.0
+469,3,Bachelors,Director,Male,Tier-3 City,29,103600.0
+470,19,Bachelors,Developer,Male,Tier-3 City,44,103200.0
+471,15,Masters,Developer,Male,Tier-2 City,38,110600.0
+472,16,Bachelors,Director,Male,Tier-3 City,40,166200.0
+473,9,PhD,Director,Female,Tier-2 City,32,161200.0
+474,9,Bachelors,Developer,Male,Tier-1 City,33,83100.0
+475,13,Masters,Developer,Female,Tier-3 City,38,88400.0
+476,16,PhD,Data Scientist,Male,Tier-1 City,39,166200.0
+477,17,Bachelors,Manager,Male,Tier-3 City,40,128300.0
+478,0,Bachelors,Director,Female,Tier-2 City,26,102300.0
+479,13,Masters,Director,Female,Tier-3 City,37,150900.0
+480,2,Masters,Director,Female,Tier-2 City,25,124000.0
+481,6,Bachelors,Analyst,Female,Tier-2 City,32,55200.0
+482,17,Masters,Developer,Male,Tier-1 City,43,136700.0
+483,5,PhD,Data Scientist,Male,Tier-3 City,31,93800.0
+484,16,Bachelors,Analyst,Female,Tier-1 City,42,82100.0
+485,9,Bachelors,Developer,Female,Tier-2 City,36,64200.0
+486,4,Bachelors,Analyst,Male,Tier-2 City,29,31800.0
+487,7,Bachelors,Director,Male,Tier-2 City,30,136300.0
+488,11,Bachelors,Analyst,Female,Tier-1 City,38,58600.0
+489,16,Bachelors,Analyst,Female,Tier-2 City,39,66400.0
+490,12,Masters,Analyst,Male,Tier-2 City,35,64700.0
+491,19,Bachelors,Analyst,Male,Tier-1 City,45,96800.0
+492,18,PhD,Data Scientist,Female,Tier-1 City,45,176700.0
+493,15,Bachelors,Developer,Male,Tier-3 City,39,83600.0
+494,12,Bachelors,Director,Male,Tier-1 City,38,196100.0
+495,6,Masters,Developer,Male,Tier-1 City,33,78600.0
+496,8,PhD,Data Scientist,Female,Tier-2 City,34,113300.0
+497,2,Bachelors,Manager,Male,Tier-1 City,24,90700.0
+498,7,Bachelors,Manager,Male,Tier-2 City,32,98700.0
+499,19,Bachelors,Manager,Male,Tier-1 City,42,178000.0
+500,8,Masters,Developer,Female,Tier-2 City,35,81700.0
+501,2,Bachelors,Data Scientist,Male,Tier-3 City,24,67900.0
+502,13,Bachelors,Director,Male,Tier-2 City,40,165200.0
+503,20,Bachelors,Director,Male,Tier-3 City,43,199200.0
+504,18,Bachelors,Manager,Female,Tier-3 City,42,123300.0
+505,5,PhD,Manager,Female,Tier-1 City,28,123200.0
+506,9,Masters,Director,Female,Tier-2 City,35,154300.0
+507,11,Bachelors,Manager,Male,Tier-1 City,35,128900.0
+508,5,Bachelors,Director,Female,Tier-2 City,31,126700.0
+509,5,Bachelors,Analyst,Male,Tier-1 City,27,44700.0
+510,4,Bachelors,Developer,Female,Tier-3 City,28,46100.0
+511,20,Masters,Analyst,Male,Tier-1 City,47,111300.0
+512,15,PhD,Analyst,Female,Tier-2 City,42,84400.0
+513,17,PhD,Data Scientist,Female,Tier-1 City,40,183400.0
+514,17,PhD,Developer,Male,Tier-3 City,41,107600.0
+515,20,PhD,Data Scientist,Female,Tier-3 City,44,143500.0
+516,2,PhD,Data Scientist,Male,Tier-3 City,27,82300.0
+517,18,Bachelors,Manager,Male,Tier-2 City,43,143100.0
+518,1,Bachelors,Director,Male,Tier-1 City,23,122500.0
+519,9,Bachelors,Director,Female,Tier-3 City,35,124400.0
+520,12,Masters,Developer,Male,Tier-2 City,35,100200.0
+521,7,Bachelors,Developer,Female,Tier-3 City,30,55000.0
+522,3,Masters,Manager,Female,Tier-3 City,30,79300.0
+523,4,Masters,Analyst,Female,Tier-2 City,30,49500.0
+524,17,Masters,Data Scientist,Female,Tier-3 City,41,123500.0
+525,6,Bachelors,Data Scientist,Male,Tier-3 City,33,77300.0
+526,6,Bachelors,Analyst,Female,Tier-2 City,30,52100.0
+527,19,Bachelors,Manager,Male,Tier-1 City,44,170000.0
+528,3,PhD,Developer,Female,Tier-1 City,26,86500.0
+529,19,Masters,Analyst,Male,Tier-2 City,42,75800.0
+530,19,Masters,Manager,Female,Tier-2 City,43,157800.0
+531,12,Bachelors,Analyst,Female,Tier-1 City,37,64000.0
+532,3,Bachelors,Manager,Female,Tier-1 City,29,92500.0
+533,3,Bachelors,Analyst,Male,Tier-3 City,27,40200.0
+534,5,Masters,Data Scientist,Female,Tier-3 City,32,78000.0
+535,12,Masters,Director,Male,Tier-1 City,37,196900.0
+536,3,Bachelors,Developer,Male,Tier-2 City,25,55600.0
+537,9,PhD,Manager,Male,Tier-1 City,35,126100.0
+538,2,Bachelors,Manager,Female,Tier-3 City,27,65600.0
+539,11,PhD,Director,Female,Tier-3 City,35,157000.0
+540,0,Bachelors,Analyst,Female,Tier-3 City,24,20300.0
+541,14,Bachelors,Manager,Male,Tier-2 City,37,121200.0
+542,1,Masters,Director,Male,Tier-2 City,26,111000.0
+543,4,Bachelors,Manager,Female,Tier-3 City,29,85300.0
+544,3,Bachelors,Analyst,Male,Tier-2 City,27,43300.0
+545,17,Bachelors,Director,Male,Tier-2 City,40,196200.0
+546,1,Bachelors,Analyst,Female,Tier-3 City,25,38600.0
+547,9,Masters,Data Scientist,Male,Tier-2 City,33,100800.0
+548,12,PhD,Data Scientist,Female,Tier-3 City,36,116800.0
+549,10,PhD,Data Scientist,Female,Tier-2 City,33,109200.0
+550,14,Bachelors,Data Scientist,Female,Tier-3 City,39,112700.0
+551,16,Masters,Analyst,Female,Tier-1 City,39,88800.0
+552,8,Bachelors,Data Scientist,Female,Tier-1 City,33,101800.0
+553,17,Bachelors,Director,Female,Tier-1 City,39,227800.0
+554,6,Bachelors,Data Scientist,Male,Tier-2 City,30,87400.0
+555,20,PhD,Developer,Male,Tier-3 City,46,117200.0
+556,10,PhD,Director,Male,Tier-1 City,36,193700.0
+557,15,Masters,Analyst,Female,Tier-1 City,41,83900.0
+558,18,Masters,Data Scientist,Female,Tier-3 City,44,136900.0
+559,16,Bachelors,Data Scientist,Male,Tier-3 City,38,119300.0
+560,17,Masters,Data Scientist,Female,Tier-2 City,41,146200.0
+561,11,Masters,Director,Male,Tier-2 City,36,162800.0
+562,0,Bachelors,Data Scientist,Female,Tier-2 City,26,65800.0
+563,10,Bachelors,Director,Female,Tier-1 City,35,175300.0
+564,3,Bachelors,Analyst,Female,Tier-1 City,30,55700.0
+565,18,PhD,Manager,Male,Tier-3 City,41,146400.0
+566,4,Bachelors,Data Scientist,Male,Tier-2 City,26,83900.0
+567,4,PhD,Developer,Female,Tier-3 City,26,82300.0
+568,5,Bachelors,Developer,Female,Tier-3 City,30,57600.0
+569,13,Masters,Manager,Female,Tier-1 City,38,149600.0
+570,11,Bachelors,Manager,Male,Tier-1 City,34,130000.0
+571,19,Bachelors,Manager,Male,Tier-3 City,45,127000.0
+572,8,Bachelors,Analyst,Male,Tier-1 City,34,51800.0
+573,5,Bachelors,Data Scientist,Female,Tier-2 City,29,80000.0
+574,1,PhD,Director,Male,Tier-3 City,24,109700.0
+575,0,Bachelors,Analyst,Male,Tier-3 City,26,29900.0
+576,7,Masters,Data Scientist,Male,Tier-3 City,33,86500.0
+577,19,Bachelors,Data Scientist,Female,Tier-1 City,42,177400.0
+578,10,Bachelors,Director,Female,Tier-1 City,33,176800.0
+579,18,Masters,Developer,Female,Tier-1 City,42,136000.0
+580,2,Bachelors,Data Scientist,Male,Tier-1 City,27,79500.0
+581,1,PhD,Manager,Male,Tier-1 City,23,113800.0
+582,17,Masters,Analyst,Male,Tier-3 City,44,76500.0
+583,2,Masters,Director,Male,Tier-1 City,26,127700.0
+584,1,Bachelors,Director,Female,Tier-3 City,25,90800.0
+585,8,Bachelors,Manager,Female,Tier-2 City,30,99800.0
+586,19,PhD,Manager,Female,Tier-2 City,46,169900.0
+587,14,Bachelors,Manager,Male,Tier-1 City,37,148300.0
+588,2,Bachelors,Manager,Male,Tier-1 City,29,94600.0
+589,17,Bachelors,Director,Female,Tier-2 City,41,201900.0
+590,17,Masters,Data Scientist,Male,Tier-1 City,44,168800.0
+591,16,Masters,Data Scientist,Male,Tier-3 City,39,120700.0
+592,18,Masters,Manager,Male,Tier-1 City,40,174600.0
+593,5,Masters,Analyst,Male,Tier-1 City,31,58200.0
+594,20,Bachelors,Director,Female,Tier-3 City,46,193400.0
+595,6,PhD,Manager,Female,Tier-2 City,31,99600.0
+596,16,Bachelors,Manager,Male,Tier-1 City,38,153300.0
+597,12,Masters,Developer,Female,Tier-3 City,39,81200.0
+598,16,Bachelors,Developer,Male,Tier-1 City,40,115900.0
+599,13,PhD,Data Scientist,Male,Tier-3 City,40,115400.0
+600,13,Bachelors,Manager,Male,Tier-3 City,40,108000.0
+601,12,Bachelors,Manager,Female,Tier-3 City,39,95800.0
+602,16,Bachelors,Manager,Female,Tier-3 City,42,110700.0
+603,15,Bachelors,Director,Female,Tier-1 City,41,211000.0
+604,2,Bachelors,Director,Male,Tier-3 City,27,100600.0
+605,17,Masters,Manager,Male,Tier-1 City,39,178600.0
+606,11,Bachelors,Developer,Female,Tier-2 City,35,83400.0
+607,6,PhD,Data Scientist,Male,Tier-1 City,32,110000.0
+608,10,Bachelors,Data Scientist,Male,Tier-2 City,36,98800.0
+609,20,Masters,Manager,Female,Tier-3 City,45,144700.0
+610,18,Bachelors,Director,Female,Tier-2 City,44,206900.0
+611,17,Masters,Developer,Male,Tier-1 City,39,134400.0
+612,9,Masters,Data Scientist,Male,Tier-1 City,33,115600.0
+613,16,Bachelors,Analyst,Female,Tier-3 City,41,62800.0
+614,8,PhD,Manager,Male,Tier-2 City,35,117100.0
+615,14,Bachelors,Data Scientist,Male,Tier-2 City,37,126100.0
+616,13,Bachelors,Data Scientist,Male,Tier-2 City,36,112500.0
+617,5,Masters,Data Scientist,Male,Tier-1 City,29,102300.0
+618,5,Masters,Developer,Female,Tier-2 City,28,57000.0
+619,1,Bachelors,Data Scientist,Female,Tier-2 City,26,65400.0
+620,2,Bachelors,Manager,Female,Tier-3 City,27,68700.0
+621,9,PhD,Developer,Male,Tier-2 City,35,83400.0
+622,10,Masters,Analyst,Male,Tier-3 City,37,51900.0
+623,3,PhD,Developer,Female,Tier-3 City,25,64400.0
+624,8,Masters,Analyst,Male,Tier-1 City,31,52000.0
+625,12,Masters,Developer,Female,Tier-2 City,35,93100.0
+626,4,Bachelors,Manager,Female,Tier-2 City,27,82400.0
+627,7,PhD,Analyst,Male,Tier-1 City,33,73200.0
+628,7,Bachelors,Manager,Female,Tier-1 City,29,104000.0
+629,10,Masters,Developer,Female,Tier-3 City,32,73200.0
+630,7,Bachelors,Director,Male,Tier-2 City,34,133600.0
+631,15,Masters,Manager,Female,Tier-1 City,42,160200.0
+632,6,Masters,Developer,Male,Tier-1 City,29,84600.0
+633,9,Masters,Data Scientist,Female,Tier-1 City,32,118900.0
+634,7,PhD,Analyst,Female,Tier-1 City,32,63000.0
+635,3,Bachelors,Analyst,Male,Tier-1 City,28,38000.0
+636,14,Masters,Director,Female,Tier-3 City,41,160800.0
+637,4,Bachelors,Director,Male,Tier-3 City,28,105600.0
+638,6,Bachelors,Analyst,Female,Tier-2 City,28,41000.0
+639,16,Bachelors,Developer,Female,Tier-2 City,40,105100.0
+640,19,Bachelors,Analyst,Female,Tier-3 City,44,70300.0
+641,14,Bachelors,Developer,Female,Tier-3 City,39,77000.0
+642,19,Masters,Developer,Male,Tier-1 City,44,140600.0
+643,17,Masters,Developer,Female,Tier-3 City,44,101900.0
+644,10,Masters,Data Scientist,Male,Tier-1 City,36,125800.0
+645,16,Bachelors,Analyst,Female,Tier-1 City,39,91000.0
+646,6,Bachelors,Director,Male,Tier-2 City,30,126700.0
+647,9,Bachelors,Manager,Female,Tier-3 City,35,89400.0
+648,11,Masters,Manager,Male,Tier-1 City,35,137800.0
+649,20,PhD,Analyst,Female,Tier-1 City,44,116000.0
+650,17,Bachelors,Manager,Male,Tier-1 City,40,158500.0
+651,10,Masters,Director,Female,Tier-2 City,33,150300.0
+652,13,Bachelors,Analyst,Male,Tier-3 City,39,50700.0
+653,4,Bachelors,Manager,Male,Tier-1 City,31,94700.0
+654,16,Bachelors,Developer,Male,Tier-1 City,42,108700.0
+655,11,Bachelors,Manager,Male,Tier-1 City,34,122500.0
+656,11,Masters,Data Scientist,Female,Tier-1 City,33,125300.0
+657,16,PhD,Director,Male,Tier-1 City,38,242100.0
+658,13,Bachelors,Analyst,Male,Tier-2 City,37,63500.0
+659,1,Masters,Developer,Male,Tier-2 City,26,56000.0
+660,6,Masters,Developer,Male,Tier-2 City,33,71700.0
+661,3,PhD,Developer,Female,Tier-3 City,30,55400.0
+662,15,Masters,Developer,Female,Tier-2 City,37,103000.0
+663,0,Bachelors,Developer,Male,Tier-1 City,26,59500.0
+664,4,Masters,Analyst,Female,Tier-2 City,27,53100.0
+665,12,Bachelors,Manager,Female,Tier-1 City,35,128700.0
+666,14,PhD,Data Scientist,Female,Tier-3 City,39,126700.0
+667,10,Bachelors,Director,Female,Tier-1 City,32,164900.0
+668,18,Masters,Manager,Female,Tier-1 City,42,169700.0
+669,19,Bachelors,Analyst,Male,Tier-3 City,44,75300.0
+670,2,Bachelors,Analyst,Female,Tier-2 City,25,46400.0
+671,20,PhD,Data Scientist,Male,Tier-1 City,45,199100.0
+672,12,Masters,Data Scientist,Male,Tier-3 City,36,104500.0
+673,13,Bachelors,Developer,Female,Tier-1 City,39,90800.0
+674,1,PhD,Manager,Male,Tier-3 City,24,72600.0
+675,13,PhD,Data Scientist,Female,Tier-3 City,35,117200.0
+676,15,Bachelors,Manager,Female,Tier-2 City,40,128200.0
+677,12,Masters,Analyst,Female,Tier-2 City,35,59500.0
+678,1,Bachelors,Director,Male,Tier-2 City,27,105300.0
+679,10,Masters,Developer,Male,Tier-2 City,32,83600.0
+680,19,Bachelors,Data Scientist,Male,Tier-1 City,44,176600.0
+681,15,Bachelors,Data Scientist,Female,Tier-1 City,42,147300.0
+682,2,PhD,Director,Male,Tier-1 City,24,151000.0
+683,20,PhD,Developer,Female,Tier-3 City,43,119700.0
+684,20,Masters,Developer,Male,Tier-1 City,47,146600.0
+685,3,PhD,Developer,Male,Tier-2 City,28,78800.0
+686,16,Masters,Developer,Male,Tier-3 City,39,91900.0
+687,8,Masters,Analyst,Male,Tier-3 City,31,62500.0
+688,12,Masters,Analyst,Male,Tier-1 City,38,76600.0
+689,9,Bachelors,Developer,Male,Tier-1 City,36,85300.0
+690,16,Bachelors,Data Scientist,Female,Tier-3 City,40,119700.0
+691,20,Bachelors,Developer,Female,Tier-1 City,44,147400.0
+692,16,Masters,Developer,Female,Tier-1 City,42,130500.0
+693,19,Bachelors,Manager,Male,Tier-3 City,42,124000.0
+694,19,Bachelors,Developer,Male,Tier-3 City,42,108700.0
+695,1,Masters,Director,Female,Tier-3 City,27,97700.0
+696,5,Bachelors,Manager,Female,Tier-3 City,28,79700.0
+697,15,Bachelors,Analyst,Female,Tier-1 City,41,71200.0
+698,12,Masters,Developer,Male,Tier-1 City,36,108400.0
+699,1,PhD,Analyst,Male,Tier-1 City,28,57100.0
+700,1,Bachelors,Developer,Female,Tier-1 City,23,60900.0
+701,10,Bachelors,Developer,Female,Tier-3 City,37,64600.0
+702,12,Bachelors,Analyst,Female,Tier-1 City,35,75200.0
+703,3,Masters,Analyst,Female,Tier-2 City,25,57400.0
+704,3,Masters,Data Scientist,Male,Tier-3 City,29,73700.0
+705,2,Bachelors,Manager,Female,Tier-3 City,27,71600.0
+706,11,Masters,Developer,Female,Tier-1 City,38,98800.0
+707,0,Bachelors,Director,Female,Tier-2 City,22,105500.0
+708,12,Bachelors,Developer,Female,Tier-2 City,34,82400.0
+709,9,PhD,Director,Male,Tier-3 City,34,139600.0
+710,9,Bachelors,Developer,Female,Tier-2 City,36,77400.0
+711,14,Bachelors,Data Scientist,Male,Tier-1 City,38,137600.0
+712,10,Bachelors,Manager,Female,Tier-3 City,36,92200.0
+713,15,Masters,Analyst,Male,Tier-3 City,42,58500.0
+714,16,PhD,Director,Female,Tier-2 City,43,211500.0
+715,19,PhD,Developer,Female,Tier-1 City,44,160900.0
+716,16,Bachelors,Data Scientist,Male,Tier-2 City,42,136600.0
+717,10,Bachelors,Manager,Male,Tier-3 City,35,99700.0
+718,10,Masters,Manager,Female,Tier-3 City,36,95200.0
+719,4,Bachelors,Analyst,Male,Tier-2 City,29,42200.0
+720,12,PhD,Director,Female,Tier-1 City,37,202300.0
+721,2,Masters,Manager,Female,Tier-2 City,26,87900.0
+722,19,Bachelors,Director,Female,Tier-3 City,44,191300.0
+723,17,Masters,Data Scientist,Male,Tier-3 City,43,129400.0
+724,2,Bachelors,Manager,Male,Tier-1 City,29,86100.0
+725,16,Bachelors,Data Scientist,Female,Tier-1 City,41,146400.0
+726,2,Masters,Director,Female,Tier-2 City,24,111100.0
+727,15,Masters,Director,Female,Tier-1 City,40,224400.0
+728,1,Masters,Director,Male,Tier-3 City,24,109800.0
+729,10,Masters,Data Scientist,Female,Tier-1 City,32,131000.0
+730,13,PhD,Manager,Female,Tier-2 City,35,126500.0
+731,15,PhD,Developer,Female,Tier-3 City,40,107000.0
+732,8,Masters,Data Scientist,Male,Tier-3 City,35,93600.0
+733,19,Bachelors,Manager,Female,Tier-3 City,44,124300.0
+734,16,Masters,Analyst,Female,Tier-1 City,40,89300.0
+735,4,PhD,Manager,Male,Tier-3 City,26,96100.0
+736,14,Bachelors,Analyst,Female,Tier-2 City,40,66800.0
+737,15,Bachelors,Data Scientist,Female,Tier-1 City,37,140100.0
+738,7,Bachelors,Data Scientist,Male,Tier-2 City,34,92600.0
+739,15,Bachelors,Data Scientist,Female,Tier-2 City,41,116800.0
+740,18,Masters,Data Scientist,Female,Tier-2 City,45,150900.0
+741,17,Bachelors,Data Scientist,Female,Tier-1 City,40,165000.0
+742,16,Masters,Data Scientist,Male,Tier-2 City,38,141100.0
+743,13,Masters,Data Scientist,Female,Tier-2 City,36,122000.0
+744,5,Masters,Data Scientist,Female,Tier-1 City,31,108500.0
+745,16,Bachelors,Manager,Male,Tier-3 City,39,123700.0
+746,7,Bachelors,Data Scientist,Female,Tier-1 City,34,109500.0
+747,11,Masters,Manager,Male,Tier-3 City,33,108200.0
+748,6,Masters,Director,Male,Tier-1 City,28,164100.0
+749,6,Bachelors,Director,Female,Tier-3 City,29,118100.0
+750,3,PhD,Analyst,Male,Tier-2 City,29,56800.0
+751,20,Bachelors,Manager,Male,Tier-1 City,45,178700.0
+752,3,PhD,Developer,Male,Tier-1 City,27,83300.0
+753,1,Bachelors,Analyst,Female,Tier-3 City,26,26100.0
+754,19,Bachelors,Manager,Male,Tier-3 City,44,127200.0
+755,11,Masters,Analyst,Female,Tier-1 City,36,69300.0
+756,9,Bachelors,Director,Female,Tier-2 City,34,146200.0
+757,15,Bachelors,Manager,Female,Tier-2 City,37,137200.0
+758,8,Bachelors,Director,Female,Tier-1 City,31,160800.0
+759,2,Bachelors,Manager,Male,Tier-2 City,27,86000.0
+760,15,Masters,Director,Male,Tier-3 City,37,175200.0
+761,3,Bachelors,Analyst,Female,Tier-3 City,27,33600.0
+762,11,Masters,Director,Female,Tier-3 City,33,148200.0
+763,19,Masters,Analyst,Female,Tier-1 City,45,101700.0
+764,19,Bachelors,Developer,Male,Tier-1 City,41,139400.0
+765,7,Bachelors,Analyst,Male,Tier-2 City,29,48700.0
+766,16,PhD,Data Scientist,Female,Tier-1 City,41,165400.0
+767,12,Masters,Manager,Female,Tier-2 City,35,123800.0
+768,10,Masters,Developer,Male,Tier-1 City,34,103700.0
+769,2,Masters,Director,Female,Tier-1 City,25,134800.0
+770,7,Bachelors,Manager,Female,Tier-1 City,30,112600.0
+771,13,Bachelors,Manager,Male,Tier-1 City,39,140700.0
+772,20,Masters,Director,Female,Tier-3 City,46,195500.0
+773,0,Bachelors,Data Scientist,Male,Tier-1 City,23,77300.0
+774,15,Masters,Developer,Male,Tier-3 City,41,85900.0
+775,17,Masters,Director,Male,Tier-1 City,43,234900.0
+776,19,Masters,Data Scientist,Female,Tier-1 City,44,186500.0
+777,8,Bachelors,Manager,Female,Tier-2 City,33,100800.0
+778,2,Bachelors,Developer,Female,Tier-3 City,29,46900.0
+779,5,Bachelors,Developer,Female,Tier-1 City,29,74100.0
+780,17,Bachelors,Analyst,Male,Tier-1 City,41,85400.0
+781,18,Masters,Developer,Male,Tier-3 City,43,104800.0
+782,13,Bachelors,Analyst,Male,Tier-2 City,40,63800.0
+783,2,Bachelors,Manager,Female,Tier-2 City,28,77400.0
+784,2,Bachelors,Analyst,Female,Tier-3 City,24,33600.0
+785,10,Bachelors,Manager,Female,Tier-3 City,34,90800.0
+786,12,Masters,Director,Male,Tier-2 City,38,164100.0
+787,0,Bachelors,Manager,Male,Tier-2 City,23,70400.0
+788,14,PhD,Data Scientist,Male,Tier-1 City,41,166500.0
+789,11,Bachelors,Analyst,Male,Tier-1 City,37,63400.0
+790,0,Masters,Director,Male,Tier-2 City,27,101400.0
+791,2,Bachelors,Analyst,Female,Tier-1 City,24,36000.0
+792,9,Bachelors,Manager,Female,Tier-3 City,34,89200.0
+793,15,PhD,Manager,Male,Tier-3 City,40,136300.0
+794,17,PhD,Analyst,Male,Tier-1 City,42,103100.0
+795,9,PhD,Manager,Female,Tier-2 City,36,124500.0
+796,6,Bachelors,Analyst,Male,Tier-1 City,30,52400.0
+797,20,Bachelors,Developer,Male,Tier-2 City,45,122400.0
+798,9,Masters,Director,Female,Tier-1 City,35,169300.0
+799,6,Bachelors,Director,Female,Tier-2 City,32,134700.0
+800,9,Masters,Developer,Female,Tier-2 City,35,78800.0
